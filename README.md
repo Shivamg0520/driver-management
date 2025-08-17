@@ -38,7 +38,7 @@ Is project ko apne local machine par chalaane ke liye neeche diye gaye steps fol
 
 **2. Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[shivamg0520]/[driver-management].git
+   git clone https://github.com/Shivamg0520/driver-management.git
    cd [driver-management]
    ```
 
